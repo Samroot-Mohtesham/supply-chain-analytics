@@ -1,0 +1,8 @@
+# Do not upload large CSV files
+data/raw/*.csv
+data/processed/*.csv
+
+# Ignore temporary Mac and Python files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
