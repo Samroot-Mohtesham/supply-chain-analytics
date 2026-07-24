@@ -16,7 +16,7 @@ The project demonstrates the complete analytics workflow, including data explora
 
 ## Live Dashboard
 
-[View the interactive Supply Chain Analytics Dashboard on Tableau Public🔗]: https://public.tableau.com/app/profile/samroot.mohtesham/viz/SupplyChainAnalyticsDashboardExecutiveOverview/SupplyChainAnalyticsDashboard
+[View the interactive Supply Chain Analytics Dashboard on Tableau Public 🔗](https://public.tableau.com/app/profile/samroot.mohtesham/viz/SupplyChainAnalyticsDashboardExecutiveOverview/SupplyChainAnalyticsDashboard)
 
 ---
 
